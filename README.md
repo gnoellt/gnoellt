@@ -69,13 +69,13 @@
 
        <p id="pesan2">Tunggu...</p>
        <!-- Pesan -->
-       <p id="pesan3">Ciee.. Ada yang Ultah Nih 🤣❤️</p>
+       <p id="pesan3">Ciee.. Ada yang Ulang Tahun Nih 🤣❤️</p>
        <p id="pesan4">Happy Birthday, </p>
-       <p id="pesan5" class="gaya2">Nambah tua aja ya, hehe</p>
-       <p id="pesan6" class="gaya2">Moga panjang umur biar tiap tahun bisa traktirin aku wkwk 😆❤️</p>
-       <p id="pesan7" class="gaya2">Sehat selalu ya!</p>
+       <p id="pesan5" class="gaya2">Nambah dewasa aja ya, hehe</p>
+       <p id="pesan6" class="gaya2">Semoga panjang umur biar tiap tahun bisa sama aku terus, wkwkwk 😆❤️</p>
+       <p id="pesan7" class="gaya2">Sehat selalu ya cantik ku!</p>
 
-       <p id="pesan8" class="gaya2">Canda wkwwk :v</p>
+       <p id="pesan8" class="gaya2">Wkwkwk :v</p>
        <p id="pesan9" class="gaya2">Oh iya, semoga di hari spesialmu ini kamu dapat menjadi pribadi yang lebih baik yaa.. 🥳❤️</p>
        <p id="pesan10" class="gaya2">Happy Level Up Day!! 🥳</p>
 
@@ -87,12 +87,12 @@
      <div id="Tombol"><a id="By">&#128140; Lanjut</a></div>
 
      <!-- Pesan Tambahan -->
-     <p id="katatambahan" class="sembunyi">Gajadi deh soalnya kamu bau wleee 😜</p>
+     <p id="katatambahan" class="sembunyi">Gajadi deh soalnya kamu cantik 😜</p>
      
      <!-- Pesan Ditolak -->
      <div id="pesanditolak">
        <img id="stikerditolak" src="https://feeldreams.github.io/weee.gif"/>
-       <p id="kataditolak">Yaudah kalo gamau mh 😜</p>
+       <p id="kataditolak">Yaudah kalo gamau mah 😜</p>
      </div>
 
    </div>
@@ -121,7 +121,7 @@
   var tompositif = 'Mau';
   var tomnegatif = 'Engga';
     
-    async function menuju(){pesanwhatsapp = "Makasii udah ngucapin " + nama + " ultah ><";await swals.fire('OK!', 'Kirim jawabannya ke WhatsApp aku, ya!', 'success');window.location = "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;}
+    async function menuju(){pesanwhatsapp = "Makasii Noel udah ngucapin " + nama + " ulang tahun ><";await swals.fire('OK!', 'Kirim jawabannya ke WhatsApp aku, ya!', 'success');window.location = "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;}
 </script>
 <script src="https://malasid.github.io/html/hbd.js"></script>
 <!-- Sampai Sini -->
